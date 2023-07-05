@@ -59,6 +59,7 @@
   },
   "bundledDependencies": [
     "@panva/hkdf",
-    "jose"
+    "jose",
+    "cookie"
   ]
 }
